@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(textutil -convert:*)",
+      "WebFetch(domain:www.immd.gov.hk)",
+      "WebSearch",
+      "WebFetch(domain:zhuanlan.zhihu.com)",
+      "WebFetch(domain:www.sohu.com)",
+      "WebFetch(domain:www.ceigd.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
